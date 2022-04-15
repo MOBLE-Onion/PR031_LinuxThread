@@ -1,0 +1,3 @@
+HAL_IO/HAL_IO.o: ../HAL_IO/HAL_IO.c ../HAL_IO/HAL_IO.h
+
+../HAL_IO/HAL_IO.h:

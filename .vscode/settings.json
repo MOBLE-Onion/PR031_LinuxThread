@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hal_spi.h": "c",
+        "hal_uart.h": "c",
+        "lmh.h": "c"
+    }
+}
